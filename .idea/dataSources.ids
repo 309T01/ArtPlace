@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails ArtPlace: development" uuid="1c326ace-8914-43dd-be37-7a8b9f19bc07">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails ArtPlace: test" uuid="7d97fa7d-d911-4446-9dfd-4a1349d9d0bd">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails ArtPlace: production" uuid="e63b80fc-00a5-4ddf-b8e1-c45ea0a13f95">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
